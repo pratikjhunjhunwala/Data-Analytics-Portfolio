@@ -16,6 +16,6 @@ I engineered an automated workflow to clean, categorize, and visualize the data,
 
 ## 📂 Files Included
 * `Sales_Data_Engine.sql` - The SQL script used to clean and categorize the raw data.
-* `Dashboard_Screenshots/` - Visual previews of the interactive Excel dashboard.
+* `[Dashboard_Screenshot](https://github.com/pratikjhunjhunwala/Data-Analytics-Portfolio/blob/main/Sales-Profitability-Analysis/Sales_Data_Analysis_Dashboard.png?raw=true)/` - Visual previews of the interactive Excel dashboard.
 
 *(Note: The raw dataset is omitted from this public repo to protect business privacy, demonstrating secure data handling practices).*
