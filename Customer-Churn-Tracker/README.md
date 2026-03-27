@@ -16,6 +16,6 @@ Instead of just reporting historical churn rates, I engineered a proactive "Risk
 
 ## 📂 Files Included
 * `Churn_Data_Engine.sql` - The SQL script used to engineer the risk categories and calculate financial loss.
-* `Dashboard_Screenshots/` - Visual previews of the interactive Excel dashboard.
+* `[Dashboard_Screenshot](https://github.com/pratikjhunjhunwala/Data-Analytics-Portfolio/blob/main/Customer-Churn-Tracker/Churn_Data_Analysis_Dashboard.png?raw=true)/` - Visual previews of the interactive Excel dashboard.
 
 *(Note: Raw dataset omitted to simulate secure client data handling).*
